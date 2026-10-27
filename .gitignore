@@ -1,0 +1,8 @@
+# Local QA artifacts
+qa*.png
+scripts/qa*.js
+.server.pid
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

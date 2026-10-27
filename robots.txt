@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lhp526.github.io/seedance-prompt-studio/sitemap.xml
